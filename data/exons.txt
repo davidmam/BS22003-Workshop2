@@ -1,0 +1,30 @@
+exon_frame1	ff0000
+exon_frame2	00ff00
+exon_frame3	0000ff
+exon 1	CFTR_reference	-1	133	185	exon_frame1
+exon 2	CFTR_reference	-1	186	296	exon_frame2
+exon 3	CFTR_reference	-1	297	405	exon_frame2
+exon 4	CFTR_reference	-1	406	621	exon_frame1
+exon 5	CFTR_reference	-1	622	711	exon_frame1
+exon 6	CFTR_reference	-1	712	875	exon_frame1
+exon 7	CFTR_reference	-1	876	1001	exon_frame2
+exon 8	CFTR_reference	-1	1002	1248	exon_frame2
+exon 9	CFTR_reference	-1	1249	1341	exon_frame1
+exon 10	CFTR_reference	-1	1342	1524	exon_frame1
+exon 11	CFTR_reference	-1	1525	1716	exon_frame1
+exon 12	CFTR_reference	-1	1717	1811	exon_frame1
+exon 13	CFTR_reference	-1	1812	1898	exon_frame2
+exon 14	CFTR_reference	-1	1899	2622	exon_frame2
+exon 15	CFTR_reference	-1	2623	2751	exon_frame1
+exon 16	CFTR_reference	-1	2752	2789	exon_frame1
+exon 17	CFTR_reference	-1	2790	3040	exon_frame2
+exon 18	CFTR_reference	-1	3041	3120	exon_frame3
+exon 19	CFTR_reference	-1	3121	3271	exon_frame1
+exon 20	CFTR_reference	-1	3272	3499	exon_frame3
+exon 21	CFTR_reference	-1	3500	3600	exon_frame3
+exon 22	CFTR_reference	-1	3601	3849	exon_frame1
+exon 23	CFTR_reference	-1	3850	4005	exon_frame1
+exon 24	CFTR_reference	-1	4006	4095	exon_frame1
+exon 25	CFTR_reference	-1	4096	4268	exon_frame1
+exon 26	CFTR_reference	-1	4269	4374	exon_frame2
+exon 27	CFTR_reference	-1	4375	4575	exon_frame1
